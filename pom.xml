@@ -6,7 +6,7 @@
 
     <groupId>org.insurgencedev</groupId>
     <artifactId>EcoJobsBoost</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 
     <properties>
         <maven.compiler.source>14</maven.compiler.source>
@@ -37,7 +37,7 @@
             <artifactId>insurgencesets</artifactId>
             <version>LATEST</version>
             <scope>system</scope>
-            <systemPath>${project.basedir}/src/main/libs/ISets-0.0.7-beta.jar</systemPath>
+            <systemPath>${project.basedir}/src/main/libs/ISets-1.0.5-API.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>org.spigotmc</groupId>
