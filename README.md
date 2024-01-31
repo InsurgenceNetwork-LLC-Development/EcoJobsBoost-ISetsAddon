@@ -7,7 +7,7 @@ Using the below settings, the player will receive a 15% boost on the amount of j
 
 ```yaml
 Boosts:
-  - Namespace: MISC
+  - Namespace: ECO_JOBS
     Type: Jobs
     Percent: true
     Settings:
