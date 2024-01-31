@@ -5,7 +5,7 @@ import org.insurgencedev.insurgencesets.api.addon.ISetsAddon;
 import org.insurgencedev.insurgencesets.api.addon.InsurgenceSetsAddon;
 import org.insurgencedev.insurgencesets.libs.fo.Common;
 
-@ISetsAddon(name = "EcoJobsBoost", version = "1.0.1", author = "Insurgence Dev Team", description = "Boost the job experience earned from EcoJobs")
+@ISetsAddon(name = "EcoJobsBoost", version = "1.0.2", author = "Insurgence Dev Team", description = "Boost the job experience earned from EcoJobs")
 public class EcoJobsBoostAddon extends InsurgenceSetsAddon {
 
     @Override
